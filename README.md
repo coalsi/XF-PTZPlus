@@ -31,3 +31,7 @@ To use the Pan and Tilt Control Script, you will need:
 
 ## Future Updates
 Stay tuned for updates! We are actively working on adding more features and functionality to enhance your control over the Canon XF605 and Pan/Tilt systems.
+
+## Support
+
+If this is useful to you, you can support my work on [GitHub Sponsors](https://github.com/sponsors/coalsi) or [Ko-fi](https://ko-fi.com/coreysilvia).
